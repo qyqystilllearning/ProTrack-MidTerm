@@ -8,7 +8,8 @@ A simple yet powerful task tracker application, built with **Laravel 12** and **
 
 | Project Selection Page | Task List Page | Edit Task Page |
 | :---: | :---: | :---: |
-| <img width="1271" height="619" alt="image" src="https://github.com/user-attachments/assets/91f81843-101a-4f13-9464-b0dc5ca8953f" /> | <img width="1283" height="671" alt="image" src="https://github.com/user-attachments/assets/85b0eb45-9d2c-4667-957b-642acf7a49b8" /> | <img width="1165" height="968" alt="image" src="https://github.com/user-attachments/assets/224dcd74-562d-47d2-95a4-1e211219ddd8" />
+| <img width="1271" height="619" alt="Screenshot 2025-10-18 150344" src="https://github.com/user-attachments/assets/419aec94-1efa-46b3-bc06-73255cf21fe6" /> | <img width="1283" height="671" alt="Screenshot 2025-10-18 150400" src="https://github.com/user-attachments/assets/058ac84a-7dd7-4f07-befe-8ef31cf1f2a7" /> | <img width="1165" height="968" alt="Screenshot 2025-10-18 150419" src="https://github.com/user-attachments/assets/a5c364f8-171c-4fe5-b806-2cb5500f8073" />
+
 
 ---
 
