@@ -32,3 +32,6 @@ A simple yet powerful task tracker application, built with **Laravel 12** and **
 -   **Build Tool**: Vite
 
 ---
+
+### Record Video
+https://its.id/m/Midterm-Record-Rizqy
